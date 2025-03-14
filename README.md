@@ -1,12 +1,11 @@
 # Projeto de Conta Bancária
 
-Este é um pequeno projeto desenvolvido em Java para simular operações de uma conta bancária. O sistema permite ao usuário realizar operações básicas como depósito, saque e consulta de saldo.
+Este é um pequeno projeto desenvolvido em Java para simular operações de uma conta bancária. O sistema permite ao usuário realizar operações básicas como depósito ebconsulta de saldo.
 
 ## Funcionalidades
 
 - **Criar uma conta bancária**: O usuário pode criar uma conta com saldo inicial.
 - **Depósito**: O usuário pode depositar um valor na conta.
-- **Saque**: O usuário pode sacar um valor da conta, respeitando o limite de saldo.
 - **Consultar Saldo**: O usuário pode visualizar o saldo atual da conta.
 
 ## Como Rodar
@@ -40,8 +39,9 @@ public class Main {
     }
 }
 Estrutura do Projeto
-ContaBancaria.java: Classe que contém as funcionalidades principais da conta bancária, como depósito, saque e consulta de saldo.
+ContaBancaria.java: Classe que contém as funcionalidades principais da conta bancária, como depósito e consulta de saldo.
 Main.java: Classe de exemplo para demonstrar como interagir com a classe ContaBancaria.
+
 Tecnologias Utilizadas
 Java: Linguagem de programação utilizada para desenvolver o projeto.
 IDE: Eclipse 
