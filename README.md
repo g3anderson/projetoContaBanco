@@ -1,6 +1,6 @@
 # Projeto de Conta Bancária
 
-Este é um pequeno projeto desenvolvido em Java para simular operações de uma conta bancária. O sistema permite ao usuário realizar operações básicas como depósito ebconsulta de saldo.
+Este é um pequeno projeto desenvolvido em Java para simular operações de uma conta bancária. O sistema permite ao usuário realizar operações básicas como depósito e consulta de saldo.
 
 ## Funcionalidades
 
